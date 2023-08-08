@@ -1,5 +1,5 @@
-#  Winner Award: Small Object Detection Challenge for Spotting Birds
-This repository contains the code for the method that secured the 1st place in the "Development Category" of the competition held in conjunction with MVA2023.
+#  Winner Award: [Small Object Detection Challenge for Spotting Birds](https://mva-org.jp/mva2023/challenge)
+This repository contains the code for the method that secured the 1st place in the "Development Category" of the competition held in conjunction with [MVA2023](https://www.mva-org.jp/mva2023/).
 
 ## Download the dataset with the following folder structure
 Create a folder structure for the bird detection dataset as shown below:
